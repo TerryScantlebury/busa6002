@@ -1,0 +1,71 @@
+ListID,Name,BillAddressAddr1,BillAddressAddr2,BillAddressAddr3,BillAddressCity,CustomerTypeRefFullName,TermsRefFullName,SalesTaxCodeRefFullName,ItemSalesTaxRefFullName
+8000000C-1414437561,Dilly's Supermarket,Dilly's Supermarket,1 trinity Church Rd,,Castries,Retail,Net 30,Tax,VAT
+80000017-1414504929,Super J Rodney Bay,Super J Rodney Bay,P.O. Boc GM580,,Castries,Retail,Net 15,Tax,VAT
+80000016-1414503993,Super J Rodney Heights,Super J Rodney Heights,P.O. Box GM580,,Castries,Retail,Net 15,Tax,VAT
+80000023-1415110614,The Montessori Center,The Montessori Center,Rodney Heights,Box 220,Castries,School,Net 15,Tax,VAT
+8000000E-1414437933,Ultra Mart Inc.,Ultra Mart Inc -  Micoud Street,P.O. Box CP5775,,Castries,Retail,Net 30,Tax,VAT
+80000020-1414683217,Victoria Hosiptal,Victoria Hosiptal,Victoria Rd,,Castries,Hospital,Net 15,Tax,VAT
+80000001-1414093430,Bounty Motors,Bounty Motors,,,Marisule,Retail,Net 15,Tax,VAT
+8000001F-1414608292,Mii Minimart,,,,"Mii Minimart, ",MiniMart,Net 15,Tax,VAT
+80000018-1414506253,GL Foodmarket,GL Foodmarket,P.O. Box GM580,Baywalk Shopping Bay,Rodney Bay,Retail,Net 15,Tax,VAT
+80000026-1415813183,Rolina Louis,,,,Rolina,Food Service,,Tax,VAT
+800000E8-1456431966,Sandals La Toc,,,,Sandals,Food Service,,Tax,VAT
+80000002-1414093430,Bounty Bella Rosa,Bounty Motor,"P.O Box 15, ",Marisule Castries,St. Lucia,Retail,Net 15,Tax,VAT
+80000003-1414093430,Bounty Marina,Bounty Motors,P.O. Box 15,Marisule Castries,St. Lucia,Retail,Net 15,Tax,VAT
+80000004-1414093430,Bounty Supermarket,BountyMart,Bridge Street,Castries,St. Lucia,Retail,Net 15,Tax,VAT
+8000002A-1416000579,Super J Cul De Sac,Super J Cul De Sac,"Cul De Sac, ",Castries,St. Lucia,Retail,Net 15,Tax,VAT
+80000005-1414153865,Super J Gablewoods Mall,Super J Gablewoods Mall,Sunny Acres,Castries,St. Lucia,Retail,Net 15,Tax,VAT
+80000007-1414154870,Super J Waterfront,Super J Waterfront,Castries,,St. Lucia,Retail,Net 15,Tax,VAT
+8000000D-1414437801,Ultra Mart Corinth,Ultra Mart Micoud Street,P.O. Box CP5775,"Conway, Castries",St. Lucia,Retail,Net 30,Tax,VAT
+80000008-1414155221,Super J La Clery,,,,Super J,Retail,Net 15,Tax,VAT
+800000E5-1455306688,Super J La Tourney,,,,Super J,Retail,,Tax,VAT
+800000B0-1441832535,Super J New Dock,Super J New Dock,New Dock Road,,Vieux Fort,Retail,,Tax,VAT
+800000DF-1452887649,Alize Inn,Alize Inn,,,,Food Service,,Tax,VAT
+800000FE-1460472877,Antilla Brewing Company,Antilla Brewing Company,"Seagrape Avenue, Rodney Bay",,,Retail,,Tax,VAT
+800000CB-1449849141,Bay Gardens,Bay Gardens Hotel,,,,Food Service,,Tax,VAT
+800000DA-1451938097,Bay Gardens Beach Resort,Bay Gardens Beach Resort & Spa,,,,Food Service,,Tax,VAT
+800000D5-1450879348,Bel Jou Hotel,Bel Jou Hotel,,,,Food Service,,Tax,VAT
+80000021-1414683869,Billy's Minimart,Billy's Minimart,John Biscette,,,MiniMart,Net 15,Tax,VAT
+80000078-1425400658,Blue Diamond St. Lucia,Blue Diamond St. Lucia,,,,Food Service,,Tax,VAT
+800000C7-1449693116,Cafe Ole,Cafe Ole,,,,Food Service,,Tax,VAT
+800000D1-1450377503,Calabash Cove,Calabash Cove Resort & Spa,,,,Food Service,,Tax,VAT
+800000C6-1449596776,Cap Maison,Cap Maison,Elbert Frederick,,,Food Service,,Tax,VAT
+800000CC-1449849372,Capella Resort,Capella Resort,,,,Food Service,,Tax,VAT
+800000E9-1456432064,Coco Palm Resort,Koko Cabana Bistro & Bar,,,,Food Service,,Tax,VAT
+80000042-1416574645,Dame Pearlette Louisy Primary School,Dame Pearlette Louisy Primary School,,,,School,,Tax,VAT
+800000D9-1451927449,Dona's Shop,Dona's Shop,Dona Gustave,,,MiniMart,,Tax,VAT
+800000DE-1452886335,EZ Management,EZ Management Ltd,,,,School,,Tax,VAT
+800000DC-1452281454,Good News Project,Good News Project,,,,School,,Tax,VAT
+800000F2-1458758366,Goute Ste Lici,Goute Ste Lici,Mauricia Thomas-Francis,,,School,,Tax,VAT
+80000087-1428413368,Hill Side Minimart,Hill Side Minimart,Antonia Mason,,,MiniMart,,Tax,VAT
+800000FC-1460137147,Island Fish & Seafood,Island Fish & Seafood,Linus Justin,,,Food Service,,Tax,VAT
+800000BE-1445632659,Island Meat Shop,Island Meat Shop,,,,Retail,Due on receipt,Tax,VAT
+80000070-1422988471,JE Maxwell,JE Maxwell,,,,MiniMart,Net 15,Tax,VAT
+80000029-1415915265,Jn Marie & Sons,Jn Marie & Sons,Aretha Francis,,,Retail,Net 15,Tax,VAT
+800000FD-1460140274,Landings St. Lucia,Landings St. Lucia,,,,Retail,,Tax,VAT
+800000D3-1450382476,Marigourmet Supermarket,Marigourmet Supermarket,,,,Retail,,Tax,VAT
+80000028-1415893663,Maverlina Timothy,Maverlina Timothy,,,,Retail,,Tax,VAT
+80000025-1415802536,Palm Haven Hotel,Bounty Motors,,,,Retail,Net 15,Tax,VAT
+800000D2-1450378344,Princess Supermarket,Princess Supermarket,,,,Retail,,Tax,VAT
+800000C9-1449776854,Promise Supermarket,Promise Supermarket,Lilia Joseph,,,Retail,,Tax,VAT
+8000004B-1416950563,Purity Bakery,,,,,Export,,Tax,Out of State
+800000E7-1456409227,Rendezvous,Rendezvous,,,,Other,,Tax,VAT
+800000E4-1454706034,Rituals,Rituals Falcon Holdings,,,,Food Service,,Tax,VAT
+800000F7-1459466935,Rituals - Church's,Rituals - Church's Boulevard,,,,Food Service,,Tax,VAT
+800000F8-1459467006,Rituals - Church's Baywalk,Rituals - Church's Baywalk,,,,Food Service,,Tax,VAT
+800000F6-1459466768,Rituals Caribbean Cinemas,Rituals Caribbean Cinemas,,,,Food Service,,Tax,VAT
+800000F5-1459466591,Rituals Diner,Rituals Diner,,,,Food Service,,Tax,VAT
+800000FA-1459545874,Rituals G.F.L Charles,Rituals G.F.L Charles,,,,Food Service,,Tax,VAT
+800000F9-1459545824,Rituals Hewanorra,Rituals Hewanorra,,,,Food Service,,Tax,VAT
+80000058-1418826210,Sampling/Donations,Sampling/Donations,,,,Food Service,,Tax,VAT
+800000C0-1446662162,Sandals Grande,Sandals Grande,,,,Food Service,,Tax,VAT
+800000EE-1458674875,Sandals Halcyon,Sandals Halcyon,,,,Food Service,,Tax,VAT
+800000C8-1449776358,Service Station Ltd,Service Station Ltd,,,,Food Service,,Tax,VAT
+800000D0-1450375495,Spinnakers,Spinnakers Beach Bar & Restaurant,,,,Food Service,,Tax,VAT
+800000CF-1449862596,St Lucia Golf & Country Club,St Lucia Golf & Country Club,,,,Food Service,,Tax,VAT
+80000091-1430437598,Super J Boulevard,Super J Boulevard,Cleofa Hyppolite,,,Retail,Net 15,Tax,VAT
+800000DD-1452514759,Super Serve Ltd,Super Serv Ltd,,,,Retail,,Tax,VAT
+800000E0-1453235442,The Ginger Lily,The Ginger Lily Hotel,,,,Food Service,,Tax,VAT
+8000003B-1416426693,Walk-In Customer,Walk-In Customer,,,,Other,,Tax,VAT
+80000051-1417724449,Wet & Cold,Wet & Cold Express,Vaughn Eugene,,,Retail,Net 15,Tax,VAT
+800000E6-1456231994,Yandees,Yandees,Sean A.M. Weeks,,,MiniMart,,Tax,VAT
